@@ -1,4 +1,4 @@
 ---
-title: "Posts" 
+title: "POSTS"
 date: 2022-06-10
 ---
